@@ -19,7 +19,8 @@ With over 6 years of experience in backend and full stack development, I special
 
   <!-- Core Java -->
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring Boot" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" alt="Hibernate" width="50" height="50" />
 
   <!-- Build & CI/CD -->
@@ -45,13 +46,15 @@ With over 6 years of experience in backend and full stack development, I special
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" />
-  <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-pxfgp11o.png" alt="Swagger" width="50" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="50" height="50" />
+
 
   <!-- IDEs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50" />
 
   <!-- Version Control -->
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+
 
 </div>
 
