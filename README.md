@@ -35,7 +35,8 @@ With over 6 years of experience in backend and full stack development, I special
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50" />
 
   <!-- Messaging & Streaming -->
-  <img src="https://techstack-generator.vercel.app/kafka-icon.svg" alt="Kafka" width="50" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="50" height="50" />
+
 
   <!-- Databases -->
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
