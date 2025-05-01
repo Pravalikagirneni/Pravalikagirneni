@@ -32,6 +32,29 @@ With over 6 years of experience in backend and full stack development, I special
   <!-- Database -->
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50" />
+  <div align="center">
+  <!-- Core Java -->
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring Boot" width="50" height="50" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" height="28" />
+
+  <!-- DevOps & Build Tools -->
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" height="28" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="28" />
+
+  <!-- Cloud & Messaging -->
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/kafka-icon.svg" alt="Kafka" width="50" height="50" />
+
+  <!-- Database -->
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28" />
+
+  <!-- IDE & Tools -->
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" height="28" />
+  <img src="https://img.shields.io/badge
+
 
   <!-- IDE & Tools -->
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" height="28" />
