@@ -14,8 +14,6 @@ With over 6 years of experience in backend and full stack development, I special
 
 ### 🚀 Tech Stack
 
-
-```html
 <div align="center">
 
   <!-- Core Java -->
@@ -55,9 +53,6 @@ With over 6 years of experience in backend and full stack development, I special
   <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" />
 
 </div>
-```
-
----
 
 
 ---
