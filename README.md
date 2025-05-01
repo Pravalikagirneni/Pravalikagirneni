@@ -71,7 +71,8 @@ My expertise spans RESTful API design, microservices, CI/CD automation, and secu
 
 - 📫 How to reach me: *pravalikarao50@gmail.com*
 
-- 📄 Know about my experiences: [LinkedIn Experience](https://www.linkedin.com/in/sony-kiran/details/experience/)
+- 📄 Know about my experiences: [LinkedIn Experience](https://www.linkedin.com/in/pravalika-rao-396b3a217)
+
 
 - ⚡ Fun fact: *I'm an early bird who also does late-night debugging 🦉*
 
