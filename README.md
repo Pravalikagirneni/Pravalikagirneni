@@ -70,6 +70,10 @@ I'm always eager to take on complex challenges, optimize performance, and build 
   <a href="https://www.linkedin.com/in/pravalika-rao-396b3a217" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pravalika%20Rao-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
+
+  <a href="tel:+12164352019" target="_blank">
+    <img src="https://img.shields.io/badge/Call-2164352019-darkgreen?style=for-the-badge&logo=phone" alt="Phone" />
+  </a>
 </p>
 
 ---
