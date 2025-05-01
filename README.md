@@ -82,10 +82,10 @@ I'm always eager to take on complex challenges, optimize performance, and build 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SonyKiran&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Commits,PullRequest,Repositories,Followers" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PravalikaRao&theme=gruvbox&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -93,16 +93,18 @@ I'm always eager to take on complex challenges, optimize performance, and build 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonyKiran&theme=midnight-purple&show_icons=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PravalikaRao&theme=midnight-purple&show_icons=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=SonyKiran&theme=midnight-purple" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=PravalikaRao&theme=midnight-purple" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SonyKiran&custom_title=Pravalika%20Rao's%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PravalikaRao&theme=github-compact&area=true&color=9b59b6&line=9b59b6&point=c39bd3&bg_color=0d1117&custom_title=Pravalika%20Rao%20-%20Activity%20Graph" />
+</p>
 
 ---
 
