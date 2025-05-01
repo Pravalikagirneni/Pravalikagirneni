@@ -14,56 +14,51 @@ With over 6 years of experience in backend and full stack development, I special
 
 ### 🚀 Tech Stack
 
+
+```html
 <div align="center">
+
   <!-- Core Java -->
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring Boot" width="50" height="50" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" height="28" />
 
-  <!-- DevOps & Build Tools -->
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+  <!-- Build & CI/CD -->
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" height="28" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="28" />
+  <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" height="28" />
 
-  <!-- Cloud & Messaging -->
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
- 
-
-  <!-- Database -->
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50" />
-  <div align="center">
-  <!-- Core Java -->
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring Boot" width="50" height="50" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" height="28" />
-
-  <!-- DevOps & Build Tools -->
+  <!-- DevOps & Containerization -->
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" height="28" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="28" />
 
-  <!-- Cloud & Messaging -->
+  <!-- Cloud Platforms -->
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" height="28" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" height="28" />
+
+  <!-- Messaging & Streaming -->
   <img src="https://techstack-generator.vercel.app/kafka-icon.svg" alt="Kafka" width="50" height="50" />
 
-  <!-- Database -->
+  <!-- Databases -->
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" height="28" />
 
-  <!-- IDE & Tools -->
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" height="28" />
-  <img src="https://img.shields.io/badge
-
-
-  <!-- IDE & Tools -->
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" height="28" />
+  <!-- API & Tools -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="28" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" height="28" />
 
-  <!-- CI/CD & Version Control -->
+  <!-- IDEs -->
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" height="28" />
+
+  <!-- Version Control -->
   <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" />
-  <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" height="28" />
+
 </div>
+```
+
+---
+
 
 ---
 
