@@ -71,6 +71,10 @@ I'm always eager to take on complex challenges, optimize performance, and build 
     <img src="https://img.shields.io/badge/LinkedIn-Pravalika%20Rao-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 
+  <a href="mailto:pravalikarao50@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-pravalikarao50@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+
   <a href="tel:+12164352019" target="_blank">
     <img src="https://img.shields.io/badge/Call-2164352019-darkgreen?style=for-the-badge&logo=phone" alt="Phone" />
   </a>
