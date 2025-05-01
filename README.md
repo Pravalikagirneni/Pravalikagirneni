@@ -1,5 +1,9 @@
+Here is your **fully updated GitHub `README.md`** with enhanced Java-related stickers and no other content removed. You can copy and paste this directly into your `README.md` file on GitHub:
+
+```markdown
 <h1 align="center">Hi 👋, I'm Pravalika Rao</h1>
 <h3 align="center">Java Developer | Cloud Enthusiast | Building Scalable Microservices and Web Apps</h3>
+
 <p align="center"> 
 With over 6 years of experience in backend and full stack development, I specialize in building robust cloud-native applications using Java, Spring Boot, and modern frameworks. I've designed, developed, and deployed solutions in fast-paced Agile environments across domains like healthcare, fintech, and insurance. From REST APIs and CI/CD pipelines to AWS/GCP cloud infrastructure and React frontends, I bring full-cycle engineering experience to the table. 💻☁️
 </p>
@@ -8,24 +12,39 @@ With over 6 years of experience in backend and full stack development, I special
   <img src="https://komarev.com/ghpvc/?username=SonyKiran&label=Profile%20views&color=0e75b6&style=flat" alt="PravalikaRao" />
 </p>
 
+---
+
+### 🚀 Tech Stack
+
 <div align="center">
+  <!-- Core Java -->
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring Boot" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" height="28" />
+
+  <!-- DevOps & Build Tools -->
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/reactjs-icon.svg" alt="React" width="50" height="50" />
-</div>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" height="28" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="28" />
 
-<br>
+  <!-- Cloud & Messaging -->
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/kafka-icon.svg" alt="Kafka" width="50" height="50" />
 
-<div align="center">
+  <!-- Database -->
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/kafka-icon.svg" alt="Kafka" width="50" height="50" />
+
+  <!-- IDE & Tools -->
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" height="28" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="28" />
+
+  <!-- CI/CD & Version Control -->
   <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" />
+  <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" height="28" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+---
 
 - 🔭 I’m currently open to roles in **Java Development | Cloud | Microservices**
 
@@ -45,19 +64,6 @@ With over 6 years of experience in backend and full stack development, I special
 <p align="left">
 <a href="https://www.linkedin.com/in/sony-kiran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SonyKiran/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
-
----
-
-<h3 align="left">💻 Technical Skills</h3>
-
-- 💡 **Languages & Tools:** Java (8-17), Spring Boot, Hibernate, REST APIs, Kafka, Docker, Jenkins, GitLab CI/CD  
-- ☁️ **Cloud:** AWS (Lambda, EC2, S3, RDS), GCP (Pub/Sub, Compute), Azure  
-- 🧪 **Testing & DevOps:** JUnit, Postman, Swagger, Git, Jenkins  
-- 🗃️ **Databases:** Oracle, MySQL, MongoDB, DynamoDB  
-- 🌐 **Frontend:** ReactJS, HTML, CSS, JavaScript  
-- 🧰 **Frameworks/Tools:** IntelliJ, Eclipse, Maven, GitHub Copilot  
-- 📊 **Version Control & Agile Tools:** Git, SVN, JIRA, Confluence  
-- 📋 **Methodologies:** Agile, Scrum, SDLC  
 
 ---
 
@@ -86,5 +92,6 @@ With over 6 years of experience in backend and full stack development, I special
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SonyKiran&custom_title=Pravalika%20Rao's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true)
 
 ---
-Added my professional portfolio README
+```
 
+Let me know if you want a downloadable `.md` file version or further personalization like adding badges for certifications or achievements.
