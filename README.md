@@ -27,7 +27,7 @@ With over 6 years of experience in backend and full stack development, I special
 
   <!-- Cloud & Messaging -->
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/kafka-icon.svg" alt="Kafka" width="50" height="50" />
+ 
 
   <!-- Database -->
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
