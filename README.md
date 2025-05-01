@@ -1,51 +1,50 @@
 <h1 align="center">👋 Hi, I'm Pravalika Rao</h1>
-<h3 align="center">Java Developer | Cloud-Native Architect | Microservices & DevOps Enthusiast</h3>
-
-<p align="center">
-🌟 Engineering scalable solutions with <b>Java, Spring Boot, AWS, and Kubernetes</b> <br/>
-📍 Based in the US | 🔭 Open to Backend, Cloud, and Full Stack Opportunities
-</p>
+<h3 align="center">Java Developer | Cloud-Native Enthusiast | Microservices Expert</h3>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-With over **6 years of experience** in full-stack and backend engineering, I specialize in designing and delivering **cloud-native enterprise applications**. My work spans mission-critical platforms in **healthcare, fintech, and insurance**, where I've driven outcomes using modern tools and a product-centric mindset.
+I'm a **results-driven Java Developer** with over **6 years** of experience in designing, developing, and deploying **scalable cloud-native applications**. I thrive in Agile environments, delivering robust backend solutions and full-stack systems across **healthcare, fintech, and insurance** domains.
 
-🔧 **Tech I love working with:**  
-Java 17 · Spring Boot · REST APIs · Microservices · Kafka · AWS · Docker · React · GCP
+My strengths lie in:
 
-🔁 **Engineering Culture:**  
-Agile · DevOps · CI/CD · Clean Code · TDD · Observability
+- 🔹 Building **RESTful microservices** using Java, Spring Boot & Hibernate  
+- ☁️ Deploying secure, scalable applications on **AWS, GCP, and Azure**  
+- 🛠️ Automating builds and deployments with **CI/CD pipelines** using Jenkins, Docker, and GitHub Actions  
+- ⚙️ Integrating **Kafka, Redis, and PostgreSQL** for high-performance systems  
+- 🎯 Championing DevOps culture, clean code, and test-driven development  
+
+I'm always eager to take on complex challenges, optimize performance, and build products that make an impact. Let's connect and build something incredible! 🚀
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
-**Languages & Frameworks**  
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" /> 
+<!-- Languages & Frameworks -->
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="40" />
 
-**Cloud & DevOps**  
+<!-- Cloud & DevOps -->
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" />
 
-**Messaging & Streaming**  
+<!-- Messaging & Streaming -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" width="40" />
 
-**Databases**  
+<!-- Databases -->
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
 
-**Tools & Testing**  
+<!-- Tools & IDEs -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" />
@@ -55,16 +54,27 @@ Agile · DevOps · CI/CD · Clean Code · TDD · Observability
 
 ---
 
-## 📈 GitHub Insights
+## 📂 Projects & Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonyKiran&show_icons=true&theme=midnight-purple" alt="Stats" />
-  <img src="https://streak-stats.demolab.com/?user=SonyKiran&theme=midnight-purple" alt="Streak" />
+<p align="left">
+  <a href="https://github.com/SonyKiran/Projects" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github" alt="GitHub Projects" />
+  </a>
 </p>
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pravalika-rao-396b3a217" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Pravalika%20Rao-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SonyKiran&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Commits,PullRequest,Repositories,Followers" />
@@ -72,24 +82,26 @@ Agile · DevOps · CI/CD · Clean Code · TDD · Observability
 
 ---
 
-## 📊 Activity Overview
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonyKiran&theme=midnight-purple&show_icons=true" alt="Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=SonyKiran&theme=midnight-purple" alt="Streak" />
+</div>
+
+---
+
+## 📈 GitHub Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SonyKiran&custom_title=Pravalika%20Rao's%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true)
 
 ---
 
-## 📬 Get in Touch
-
-- 📧 Email: **pravalikarao50@gmail.com**  
-- 💼 LinkedIn: [Pravalika Rao](https://www.linkedin.com/in/pravalika-rao-396b3a217)  
-- 💻 GitHub Projects: [Pravalika's Workspace](https://github.com/SonyKiran/Projects)  
-
----
-
-## 🧩 Fun Fact
+## ⚡ Fun Fact
 
 I'm an early bird who also enjoys late-night debugging—yes, I break and fix my own code in the same sitting 🦉☕.
 
 ---
 
-> 🚀 Let’s build something impactful together!
+> 🔍 Looking for my next opportunity in **Java Development | Cloud | Microservices**
