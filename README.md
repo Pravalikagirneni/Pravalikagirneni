@@ -1,6 +1,4 @@
-Here is your **fully updated GitHub `README.md`** with enhanced Java-related stickers and no other content removed. You can copy and paste this directly into your `README.md` file on GitHub:
 
-```markdown
 <h1 align="center">Hi 👋, I'm Pravalika Rao</h1>
 <h3 align="center">Java Developer | Cloud Enthusiast | Building Scalable Microservices and Web Apps</h3>
 
@@ -91,7 +89,4 @@ With over 6 years of experience in backend and full stack development, I special
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SonyKiran&custom_title=Pravalika%20Rao's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true)
 
----
-```
 
-Let me know if you want a downloadable `.md` file version or further personalization like adding badges for certifications or achievements.
