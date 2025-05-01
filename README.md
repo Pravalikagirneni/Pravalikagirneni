@@ -81,9 +81,10 @@ My expertise spans RESTful API design, microservices, CI/CD automation, and secu
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/pravalika-rao-396b3a217" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/SonyKiran/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
 </p>
+
 
 
 ---
