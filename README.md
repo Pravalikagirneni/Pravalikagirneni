@@ -3,7 +3,9 @@
 <h3 align="center">Java Developer | Cloud Enthusiast | Building Scalable Microservices and Web Apps</h3>
 
 <p align="center"> 
-With over 6 years of experience in backend and full stack development, I specialize in building robust cloud-native applications using Java, Spring Boot, and modern frameworks. I've designed, developed, and deployed solutions in fast-paced Agile environments across domains like healthcare, fintech, and insurance. From REST APIs and CI/CD pipelines to AWS/GCP cloud infrastructure and React frontends, I bring full-cycle engineering experience to the table. 💻☁️
+With 6+ years of hands-on experience in backend and full stack development, I engineer scalable, cloud-native applications using Java, Spring Boot, and modern frontend frameworks. I have successfully architected, developed, and deployed enterprise-grade solutions in Agile environments, contributing to mission-critical platforms across healthcare, fintech, and insurance domains.
+
+My expertise spans RESTful API design, microservices, CI/CD automation, and secure deployments on AWS and GCP. I integrate DevOps practices seamlessly into the SDLC, ensuring reliability, performance, and maintainability. Whether it’s orchestrating cloud infrastructure, optimizing database performance, or delivering rich React-based user interfaces — I bring full-cycle software engineering and a product-driven mindset to every project. 🚀
 </p>
 
 <p align="center"> 
