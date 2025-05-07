@@ -54,15 +54,6 @@ I'm always eager to take on complex challenges, optimize performance, and build 
 
 ---
 
-## 📂 Projects & Work
-
-<p align="left">
-  <a href="https://github.com/SonyKiran/Projects" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github" alt="GitHub Projects" />
-  </a>
-</p>
-
----
 
 ## 🤝 Connect with Me
 
